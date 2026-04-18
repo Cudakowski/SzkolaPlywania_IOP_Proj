@@ -3,7 +3,7 @@ Skład zespołu:
  - Mateusz Stróżek
  - Emilia Wojtowicz
 
-# Szkoła pływania 
+# SwimSync 
 Szkoła pływania organizuje zajęcia dla dzieci i dorosłych. Basen ma ograniczoną liczbę torów.
 
 Planowane jest stworzenie systemu wspierającego organizację zajęć na basenie. System ma
